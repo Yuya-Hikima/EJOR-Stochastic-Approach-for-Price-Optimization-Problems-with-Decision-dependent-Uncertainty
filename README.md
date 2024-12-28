@@ -1,0 +1,1 @@
+# EJOR-Stochastic-Approach-for-Price-Optimization-Problems-with-Decision-dependent-Uncertainty
